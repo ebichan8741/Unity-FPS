@@ -272,6 +272,8 @@ MonoBehaviour:
   cameraRotForward: 1
   rotateSpeed: 2
   mouseSpeed: 2
+  jumpPower: 5
+  dashJumpPower: 5.6
 --- !u!143 &295683625
 CharacterController:
   m_ObjectHideFlags: 0
